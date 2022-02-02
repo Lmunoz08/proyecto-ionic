@@ -1,0 +1,24 @@
+
+.alert {
+    padding: 20px;
+    background-color: #88dbf0;
+    color: rgb(240, 216, 236);
+    border-radius: 23px;
+  }
+  
+  .closebtn {
+    margin-left: 15px;
+    color: rgb(154, 226, 154);
+    font-weight: bold;
+    float: rgb(191, 235, 135);
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  
+  .closebtn:hover {
+    color: #6ba1e9;
+  }
+  ion-content{ --ion-background-color:#89a4fa; }
+

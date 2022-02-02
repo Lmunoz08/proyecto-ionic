@@ -1,0 +1,7 @@
+{
+  "name": "ionic:musica",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
